@@ -1,1 +1,10 @@
-{}
+{
+  "description": "Explore IIT Bombay Techfest 2026 events, workshops, lectures, and exhibitions, and find key details and registration options for students and technology enthusiasts.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
